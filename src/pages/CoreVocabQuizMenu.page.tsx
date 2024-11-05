@@ -30,7 +30,7 @@ export function CoreVocabQuizMenuPage() {
 
   return (
     chapters.length > 0 && (
-      <Stack align="center" gap="lg" mt={100}>
+      <Stack align="center" gap="lg">
         <Title>Quiz</Title>
         <NativeSelect
           label="Select chapter"

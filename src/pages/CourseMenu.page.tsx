@@ -12,7 +12,7 @@ export function CourseMenuPage() {
   }, [courseId, courseName]);
 
   return (
-    <Stack align="center" mt={100}>
+    <Stack align="center">
       <Title>{courseName}</Title>
       <Button component={Link} to="core-vocab-quiz">
         Core Vocab Quiz

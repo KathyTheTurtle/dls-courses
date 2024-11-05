@@ -4,7 +4,7 @@ import classes from './Welcome.module.css';
 export function Welcome() {
   return (
     <>
-      <Title className={classes.title} ta="center" mt={100}>
+      <Title className={classes.title}>
         <Text inherit variant="gradient" component="span" gradient={{ from: 'black', to: 'green' }}>
           DLS Courses
         </Text>

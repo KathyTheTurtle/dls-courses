@@ -51,7 +51,7 @@ export function CoreVocabQuizPage() {
 
   return vocabIndex < coreVocab.length ? (
     <Stack align="center">
-      <Title mt={100}>
+      <Title>
         {translationDirection === TranslationDirection.ThaiToEnglish
           ? currentVocab.transliteration
           : currentVocab.english}
@@ -111,7 +111,7 @@ export function CoreVocabQuizPage() {
       </Group>
     </Stack>
   ) : (
-    <Stack align="center" mt={100}>
+    <Stack align="center">
       <Title>Finished!</Title>
       <Text>You got {`${numCorrect} out of ${vocabIndex}`} correct!</Text>
       <Button component={Link} to="./../.." variant="default">
