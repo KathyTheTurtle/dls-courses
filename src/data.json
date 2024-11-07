@@ -230,7 +230,7 @@
         },
         {
           "id": "chapter29",
-          "name": "Chapter 29",
+          "name": "📅 Chapter 29",
           "coreVocab": [
             {
               "transliteration": "wantîi tâorài",
@@ -243,6 +243,104 @@
             {
               "transliteration": "ìik... (kâang-nâa)",
               "english": "in ...more (days, months, years, etc)"
+            },
+            {
+              "transliteration": "gə̀ət",
+              "english": "{v.} to be born"
+            },
+            {
+              "transliteration": "yáai (bâan)",
+              "english": "to move (house), to relocate"
+            },
+            {
+              "transliteration": "jàt (ngaan...)",
+              "english": "to organise (party, event), to hold (a ceremony)"
+            },
+            {
+              "transliteration": "dtɔ̀ɔ (wiisâa)",
+              "english": "to extend, to renew (visa)"
+            },
+            {
+              "transliteration": "króp rɔ̂ɔp",
+              "english": "{n.} anniversary, {state v.} to complete (a cycle)"
+            },
+            {
+              "transliteration": "mʉ̂a",
+              "english": "{prep.} when... (in the past)"
+            },
+            {
+              "transliteration": "tammai",
+              "english": "why"
+            },
+            {
+              "transliteration": "prɔ́wâa",
+              "english": "because"
+            },
+            {
+              "transliteration": "dtàtsǐn jai",
+              "english": "to decide, to make a decision"
+            },
+            {
+              "transliteration": "chái chiiwít",
+              "english": "to live, spend (one's) life"
+            },
+            {
+              "transliteration": "dtàang bpratêet",
+              "english": "(lit: different country) abroad"
+            },
+            {
+              "transliteration": "mʉang tai",
+              "english": "{coll.} Thailand"
+            }
+          ],
+          "vocabBuilder": [
+            {
+              "transliteration": "mókgaraa(-kom)",
+              "english": "January"
+            },
+            {
+              "transliteration": "gumpaa(-pan)",
+              "english": "February"
+            },
+            {
+              "transliteration": "miinaa(-kom)",
+              "english": "March"
+            },
+            {
+              "transliteration": "meesǎa(-yon)",
+              "english": "April"
+            },
+            {
+              "transliteration": "prʉ́tsapaa(-kom)",
+              "english": "May"
+            },
+            {
+              "transliteration": "mítùnaa(-yon)",
+              "english": "June"
+            },
+            {
+              "transliteration": "gàrágàdaa(-kom)",
+              "english": "July"
+            },
+            {
+              "transliteration": "sǐnghǎa(-kom)",
+              "english": "August"
+            },
+            {
+              "transliteration": "ganyaa(-yon)",
+              "english": "September"
+            },
+            {
+              "transliteration": "dtùlaa(-kom)",
+              "english": "October"
+            },
+            {
+              "transliteration": "prʉ́tsàjìgaa(-yon)",
+              "english": "November"
+            },
+            {
+              "transliteration": "tanwaa(-kom)",
+              "english": "December"
             }
           ]
         },
