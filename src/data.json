@@ -109,6 +109,126 @@
           ]
         },
         {
+          "id": "chapter22",
+          "name": "📅 Chapter 22",
+          "coreVocab": [
+            {
+              "transliteration": "sàpdaa, aatít",
+              "english": "week"
+            },
+            {
+              "transliteration": "kʉʉn",
+              "english": "night"
+            },
+            {
+              "transliteration": "mʉ̂arài/(mʉ̂arai)",
+              "english": "when"
+            },
+            {
+              "transliteration": "bpə̀ət",
+              "english": "to open, to be open"
+            },
+            {
+              "transliteration": "bpìt",
+              "english": "to close, to be closed"
+            },
+            {
+              "transliteration": "nát",
+              "english": "{n.} appointment, {v.} to make an appointment"
+            },
+            {
+              "transliteration": "hǎa",
+              "english": "to visit (sb), to search, to look for"
+            },
+            {
+              "transliteration": "rə̂əm",
+              "english": "to start, to begin"
+            },
+            {
+              "transliteration": "jòp",
+              "english": "to end, (sth) to be over"
+            },
+            {
+              "transliteration": "ɔ̀ɔk",
+              "english": "to leave, to depart"
+            },
+            {
+              "transliteration": "dtângdtɛ̀ɛ",
+              "english": "{prep.} from, since (a point in time)"
+            },
+            {
+              "transliteration": "(jon) tʉ̌ng",
+              "english": "{prep.} to, until (a point in time)"
+            },
+            {
+              "transliteration": "pə̂ng(-jà...)",
+              "english": "just (now), only just (happened)"
+            },
+            {
+              "transliteration": "gʉ̀ap(-jà...)",
+              "english": "almost, nearly"
+            },
+            {
+              "transliteration": "túk",
+              "english": "every..."
+            }
+          ],
+          "vocabBuilder": [
+            {
+              "transliteration": "wan jan",
+              "english": "Monday"
+            },
+            {
+              "transliteration": "wan angkaan",
+              "english": "Tuesday"
+            },
+            {
+              "transliteration": "wan pút",
+              "english": "Wednesday"
+            },
+            {
+              "transliteration": "wan párʉ́hàt(sàbɔɔdii)",
+              "english": "Thursday"
+            },
+            {
+              "transliteration": "wan sùk",
+              "english": "Friday"
+            },
+            {
+              "transliteration": "wan sǎo",
+              "english": "Saturday"
+            },
+            {
+              "transliteration": "wan aatít",
+              "english": "Sunday"
+            },
+            {
+              "transliteration": "mʉ̂awaan(níi)",
+              "english": "Yesterday"
+            },
+            {
+              "transliteration": "wanníi",
+              "english": "Today"
+            },
+            {
+              "transliteration": "(wan) prûngníi",
+              "english": "Tomorrow"
+            },
+            {
+              "transliteration": "mʉ̂akʉʉn(níi)",
+              "english": "Last night"
+            },
+            {
+              "transliteration": "kʉʉnníi",
+              "english": "Tonight"
+            },
+            {
+              "transliteration": "kʉʉn prûngníi",
+              "english": "Tomorrow night"
+            }
+          ]
+        },
+        {
           "id": "chapter29",
           "name": "Chapter 29",
           "coreVocab": [
