@@ -440,7 +440,7 @@
         },
         {
           "id": "chapter36",
-          "name": "Chapter 36",
+          "name": "👀 Chapter 36",
           "coreVocab": [
             {
               "transliteration": "rûup-râang",
@@ -477,6 +477,90 @@
             {
               "transliteration": "nâa-dtaa",
               "english": "face, (facial) looks"
+            },
+            {
+              "transliteration": "nâa glom",
+              "english": "round face"
+            },
+            {
+              "transliteration": "nâa lìam",
+              "english": "angular face"
+            },
+            {
+              "transliteration": "nâa riao",
+              "english": "slim face"
+            },
+            {
+              "transliteration": "dtaa dtoo",
+              "english": "large eyes"
+            },
+            {
+              "transliteration": "dtaa dtìi",
+              "english": "tapering/narrow eyes"
+            },
+            {
+              "transliteration": "jamùuk dtoo",
+              "english": "large nose"
+            },
+            {
+              "transliteration": "jamùuk dòong",
+              "english": "high-bridged nose"
+            },
+            {
+              "transliteration": "jamùuk bɛɛn",
+              "english": "low/flat nose"
+            },
+            {
+              "transliteration": "hǔu (gaang)",
+              "english": "(sticking-out, pointed) ears"
+            },
+            {
+              "transliteration": "pǒm dtrong",
+              "english": "straight hair (on the head)"
+            },
+            {
+              "transliteration": "pǒm yàksòk",
+              "english": "curly hair (on the head)"
+            },
+            {
+              "transliteration": "pǒm yìk",
+              "english": "wavy hair (on the head)"
+            },
+            {
+              "transliteration": "nùat-krao",
+              "english": "(lit: moustache and beard) facial hair"
+            },
+            {
+              "transliteration": "ûan",
+              "english": "{adj.} fat/overweight"
+            },
+            {
+              "transliteration": "pɔ̌ɔm",
+              "english": "{adj.} thin/skinny"
+            },
+            {
+              "transliteration": "baang",
+              "english": "{adj.} (width/density) thin"
+            },
+            {
+              "transliteration": "nǎa",
+              "english": "{adj.} (width/density) thick"
+            },
+            {
+              "transliteration": "mɔ̀-gàp",
+              "english": "{adj.} suitable, fitting for..."
+            },
+            {
+              "transliteration": "kâang",
+              "english": "{clf.} ...side (of a pair)"
+            },
+            {
+              "transliteration": "...nɔ́ɔi gwàa",
+              "english": "less... than"
+            },
+            {
+              "transliteration": "...nɔ́ɔi tîisùt",
+              "english": "the least..."
             }
           ]
         },
