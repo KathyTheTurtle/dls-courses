@@ -3,6 +3,7 @@ import { RootLayout } from './components/RootLayout/RootLayout';
 import { CoreVocabQuizPage } from './pages/CoreVocabQuiz.page';
 import { CoreVocabQuizMenuPage } from './pages/CoreVocabQuizMenu.page';
 import { CourseMenuPage } from './pages/CourseMenu.page';
+import { GlossaryPage } from './pages/Glossary.page';
 import { HomePage } from './pages/Home.page';
 import { VocabBuilderQuizPage } from './pages/VocabBuilderQuiz.page';
 import { VocabBuilderQuizMenuPage } from './pages/VocabBuilderQuizMenu.page';
@@ -10,7 +11,7 @@ import { VocabBuilderQuizMenuPage } from './pages/VocabBuilderQuizMenu.page';
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <RootLayout />, // Updated name
+    element: <RootLayout />,
     children: [
       { path: '/', element: <HomePage /> },
       { path: '/course/:courseId', element: <CourseMenuPage /> },
@@ -26,6 +27,7 @@ const router = createBrowserRouter([
       },
     ],
   },
+  { path: '/course/:courseId/glossary', element: <GlossaryPage /> },
 ]);
 
 export function Router() {

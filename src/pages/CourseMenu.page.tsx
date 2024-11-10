@@ -20,7 +20,9 @@ export function CourseMenuPage() {
       <Button component={Link} to="vocab-builder-quiz">
         Vocab Builder Quiz
       </Button>
-      <Button disabled>Glossary (coming soon!)</Button>
+      <Button component={Link} to="glossary">
+        Glossary
+      </Button>
       <Button component={Link} to="/" variant="default">
         Back to Home
       </Button>

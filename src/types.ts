@@ -7,3 +7,7 @@ export type CoreVocab = {
   transliteration: string;
   english: string;
 };
+
+export type GlossaryItem = CoreVocab & {
+  chapter: string;
+};
