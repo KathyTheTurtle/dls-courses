@@ -1381,7 +1381,81 @@
               "english": "to cancel"
             }
           ]
-        }        
+        },
+        {
+          "id": "chapter52",
+          "name": "🏹 Chapter 52",
+          "coreVocab": [
+            {
+              "transliteration": "tam...",
+              "english": "<<to cause damage/loss, generally by accident>>"
+            },
+            {
+              "transliteration": "dtòk",
+              "english": "{int.v.} (sth) falls/drops"
+            },
+            {
+              "transliteration": "tam... dtòk",
+              "english": "{trs.v.} to drop (sth)"
+            },
+            {
+              "transliteration": "hǎai",
+              "english": "{int.v.} (sth) disappears/is lost; (TRS.V.) to lose (sth), to misplace"
+            },
+            {
+              "transliteration": "tam... hǎai",
+              "english": "{trs.v.} to lose (sth), to misplace"
+            },
+            {
+              "transliteration": "dtèek",
+              "english": "{int.v.} (sth) breaks/shatters"
+            },
+            {
+              "transliteration": "tam... dtèek",
+              "english": "{trs.v.} to break (sth) into pieces"
+            },
+            {
+              "transliteration": "sǐa",
+              "english": "{int.v.} (sth) is broken/malfunctions, (food) is spoiled/goes off"
+            },
+            {
+              "transliteration": "pang",
+              "english": "{int.v.} (sth) is broken/ruined, (structure) crumbles/falls apart"
+            },
+            {
+              "transliteration": "kàat",
+              "english": "{int.v.} (sth) rips/(is torn)"
+            },
+            {
+              "transliteration": "hàk",
+              "english": "{int.v.} (sth) snaps (into two); {trn.v.} to snap (sth), to break apart"
+            },
+            {
+              "transliteration": "gèp",
+              "english": "to collect, gather, pick (sth) up (from the ground)"
+            },
+            {
+              "transliteration": "dtìt",
+              "english": "{v.} to attach (sth), to stick (things) together"
+            },
+            {
+              "transliteration": "sâang",
+              "english": "{v.} to build, to create, to construct (a building)"
+            },
+            {
+              "transliteration": "pʉ́ʉn (din)",
+              "english": "{n.} ground, floor"
+            },
+            {
+              "transliteration": "bpàakgaa",
+              "english": "pen"
+            },
+            {
+              "transliteration": "dinsɔ̌ɔ",
+              "english": "pencil"
+            }
+          ]
+        }
       ]
     }
   ]
