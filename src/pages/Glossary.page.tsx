@@ -1,11 +1,16 @@
 import { useEffect, useState } from 'react';
+import { IconSearch } from '@tabler/icons-react';
 import { Link, useParams } from 'react-router-dom';
-import { Button, Card, Center, Group, Stack, Text, Title } from '@mantine/core';
+import { Button, Card, Center, Group, Stack, Text, TextInput, Title } from '@mantine/core';
+import { useInputState } from '@mantine/hooks';
 import data from '../data.json';
 import { GlossaryItem } from '../types';
 
+let allGlossaryItems: GlossaryItem[] = [];
+
 export function GlossaryPage() {
   const [glossaryItems, setGlossaryItems] = useState<GlossaryItem[]>([]);
+  const [searchString, setSearchString] = useInputState('');
 
   const { courseId } = useParams();
 
@@ -23,9 +28,20 @@ export function GlossaryPage() {
         })) || []),
       ]);
       glossaryItems.sort((a, b) => (a.transliteration < b.transliteration ? -1 : 1));
-      setGlossaryItems(glossaryItems);
+      allGlossaryItems = glossaryItems;
+      setGlossaryItems(allGlossaryItems);
     }
   }, [courseId]);
+
+  useEffect(() => {
+    setGlossaryItems(
+      allGlossaryItems.filter(
+        (glossaryItem) =>
+          glossaryItem.transliteration.includes(searchString) ||
+          glossaryItem.english.includes(searchString)
+      )
+    );
+  }, [searchString]);
 
   return (
     <Center>
@@ -38,6 +54,12 @@ export function GlossaryPage() {
         <Group justify="center">
           <Title>Glossary</Title>
         </Group>
+        <TextInput
+          placeholder="Search vocab"
+          leftSection={<IconSearch />}
+          value={searchString}
+          onChange={(event) => setSearchString(event.currentTarget.value)}
+        />
         {glossaryItems.map((glossaryItem) => (
           <Card withBorder>
             <Center>
