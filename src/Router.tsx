@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 import { RootLayout } from './components/RootLayout/RootLayout';
 import { CoreVocabQuizPage } from './pages/CoreVocabQuiz.page';
 import { CoreVocabQuizMenuPage } from './pages/CoreVocabQuizMenu.page';
@@ -8,7 +8,7 @@ import { HomePage } from './pages/Home.page';
 import { VocabBuilderQuizPage } from './pages/VocabBuilderQuiz.page';
 import { VocabBuilderQuizMenuPage } from './pages/VocabBuilderQuizMenu.page';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: '/',
     element: <RootLayout />,
