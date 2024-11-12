@@ -34,11 +34,13 @@ export function GlossaryPage() {
   }, [courseId]);
 
   useEffect(() => {
+    const lowerSearchString = replaceSpecialChars(searchString.toLowerCase());
+
     setGlossaryItems(
       allGlossaryItems.filter(
         (glossaryItem) =>
-          glossaryItem.transliteration.includes(searchString) ||
-          glossaryItem.english.includes(searchString)
+          replaceSpecialChars(glossaryItem.transliteration).includes(lowerSearchString) ||
+          glossaryItem.english.includes(lowerSearchString)
       )
     );
   }, [searchString]);
@@ -76,4 +78,52 @@ export function GlossaryPage() {
       </Stack>
     </Center>
   );
+}
+
+function replaceSpecialChars(s: string) {
+  const charMap: { [key: string]: string } = {
+    à: 'a',
+    á: 'a',
+    â: 'a',
+    ǎ: 'a',
+    è: 'e',
+    é: 'e',
+    ê: 'e',
+    ě: 'e',
+    ì: 'i',
+    í: 'i',
+    î: 'i',
+    ǐ: 'i',
+    ò: 'o',
+    ó: 'o',
+    ô: 'o',
+    ǒ: 'o',
+    ù: 'u',
+    ú: 'u',
+    û: 'u',
+    ǔ: 'u',
+    ɛ̀: 'e',
+    ɛ́: 'e',
+    ɛ̂: 'e',
+    ɛ̌: 'e',
+    ə̀: 'e',
+    ə́: 'e',
+    ə̂: 'e',
+    ə̌: 'e',
+    ɔ̀: 'o',
+    ɔ́: 'o',
+    ɔ̂: 'o',
+    ɔ̌: 'o',
+    ʉ̀: 'u',
+    ʉ́: 'u',
+    ʉ̂: 'u',
+    ʉ̌: 'u',
+  };
+
+  s = s.toLowerCase();
+
+  return s
+    .split('')
+    .map((char) => charMap[char] || char)
+    .join('');
 }
