@@ -1672,6 +1672,126 @@
               "english": "pencil"
             }
           ]
+        },
+        {
+          "id": "chapter53",
+          "name": "🧹 Chapter 53",
+          "coreVocab": [
+            {
+              "transliteration": "táng-táng tîi... (gɔ̂ɔ...)",
+              "english": "despite that... (still...)"
+            },
+            {
+              "transliteration": "chin (gàp...)",
+              "english": "{v.} to be used to, to be familiar with"
+            },
+            {
+              "transliteration": "tam ngaanbâan",
+              "english": "(to do) house chore"
+            },
+            {
+              "transliteration": "hɛ̂ɛng",
+              "english": "dry"
+            },
+            {
+              "transliteration": "bpìak",
+              "english": "wet"
+            },
+            {
+              "transliteration": "rîap",
+              "english": "flat, (fabric) smooth/crisp"
+            },
+            {
+              "transliteration": "yáp",
+              "english": "crumpled, (fabric) wrinkled/creased"
+            },
+            {
+              "transliteration": "prɔ́ɔm-gan",
+              "english": "{adv.} at the same time, (to do sth) altogether"
+            },
+            {
+              "transliteration": "glaai-bpen",
+              "english": "{v.} to become, to turn into"
+            },
+            {
+              "transliteration": "bɛ̀ng... (hâi...)",
+              "english": "{v.} to share (sth with sb)"
+            },
+            {
+              "transliteration": "nùm/sǎao",
+              "english": "{adj.} young (male/female)"
+            },
+            {
+              "transliteration": "gɛ̀ɛ",
+              "english": "{adj.} old (age)"
+            },
+            {
+              "transliteration": "yókwén",
+              "english": "except"
+            },
+            {
+              "transliteration": "rîaprɔ́ɔi",
+              "english": "{adj.} tidy, neat, {adv.} to complete (a task)"
+            },
+            {
+              "transliteration": "sǎmrèt",
+              "english": "{adj./v.} successful, to succeed"
+            },
+            {
+              "transliteration": "kwaam-sǎmrèt",
+              "english": "{n.} success"
+            }
+          ],
+          "vocabBuilder": [
+            {
+              "transliteration": "sà pǒm",
+              "english": "to wash hair"
+            },
+            {
+              "transliteration": "dùut fùn",
+              "english": "to vacuum"
+            },
+            {
+              "transliteration": "bprɛɛng fan",
+              "english": "to brush teeth"
+            },
+            {
+              "transliteration": "gwàat bâan",
+              "english": "to sweep the house"
+            },
+            {
+              "transliteration": "tǔu bâan",
+              "english": "to mop the house"
+            },
+            {
+              "transliteration": "sák pâa",
+              "english": "to wash clothes"
+            },
+            {
+              "transliteration": "dtàak pâa",
+              "english": "to dry clothes"
+            },
+            {
+              "transliteration": "rót náam dtônmáai",
+              "english": "to water the plants"
+            },
+            {
+              "transliteration": "dtàt lép",
+              "english": "to trim nails"
+            },
+            {
+              "transliteration": "rîit pâa",
+              "english": "to iron clothes"
+            },
+            {
+              "transliteration": "láang jaan",
+              "english": "to wash dishes"
+            },
+            {
+              "transliteration": "ao kayà bpai tíng",
+              "english": "to take out the garbage"
+            }
+          ]
         }
       ]
     }
