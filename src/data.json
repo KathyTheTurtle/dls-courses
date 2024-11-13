@@ -295,6 +295,72 @@
           ]
         },
         {
+          "id": "chapter24",
+          "name": "🤒 Chapter 24",
+          "coreVocab": [
+            {
+              "transliteration": "kəəi",
+              "english": "have (ever done sth), used to..."
+            },
+            {
+              "transliteration": "naan tâorài",
+              "english": "how long (time)"
+            },
+            {
+              "transliteration": "maa naan...",
+              "english": "have been (doing sth) for... (duration of time)"
+            },
+            {
+              "transliteration": "maa dtângdtɛ̀ɛ...",
+              "english": "have been (doing sth) since... (a point in time)"
+            },
+            {
+              "transliteration": "sùup (burìi)",
+              "english": "to smoke (cigarette)"
+            },
+            {
+              "transliteration": "fʉ̀k",
+              "english": "to practise, to train"
+            },
+            {
+              "transliteration": "dtɛ̀ngngaan",
+              "english": "{v.} to get married, {adj.} (to be) married"
+            },
+            {
+              "transliteration": "bpùai",
+              "english": "{adj.} sick, ill"
+            },
+            {
+              "transliteration": "bpen",
+              "english": "to be (unwell), to have (an illness, a disease)"
+            },
+            {
+              "transliteration": "rôok...",
+              "english": "disease, syndrome, health condition"
+            },
+            {
+              "transliteration": "wàt",
+              "english": "cold, flu"
+            },
+            {
+              "transliteration": "puumpɛ́ɛ",
+              "english": "allergy"
+            },
+            {
+              "transliteration": "hǎai",
+              "english": "to recover (from an illness or sth bad)"
+            },
+            {
+              "transliteration": "gɔ̀ɔn...",
+              "english": "{prep.} before (time)"
+            },
+            {
+              "transliteration": "lǎng (jàak)...",
+              "english": "{prep.} after (time)"
+            }
+          ]
+        },
+        {
           "id": "chapter29",
           "name": "📅 Chapter 29",
           "coreVocab": [
