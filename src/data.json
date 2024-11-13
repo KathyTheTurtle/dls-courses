@@ -229,6 +229,72 @@
           ]
         },
         {
+          "id": "chapter23",
+          "name": "🍲 Chapter 23",
+          "coreVocab": [
+            {
+              "transliteration": "chûai",
+              "english": "to help, \"please... (for me)\""
+            },
+            {
+              "transliteration": "hâi...",
+              "english": "{prep.} (do sth) for (sb)"
+            },
+            {
+              "transliteration": "bpə̀ət (fai)",
+              "english": "to turn on (the light), to switch on (power)"
+            },
+            {
+              "transliteration": "bpìt (fai)",
+              "english": "to turn off (the light), to switch off (power)"
+            },
+            {
+              "transliteration": "ɛɛ",
+              "english": "air conditioner"
+            },
+            {
+              "transliteration": "bpradtuu {baan}",
+              "english": "door"
+            },
+            {
+              "transliteration": "yìp",
+              "english": "to pick up/grab (sth)"
+            },
+            {
+              "transliteration": "tʉ̌ʉ",
+              "english": "to hold, to carry"
+            },
+            {
+              "transliteration": "waang",
+              "english": "to put (sth) down"
+            },
+            {
+              "transliteration": "tàai (rûup)",
+              "english": "to take (a picture), to photograph"
+            },
+            {
+              "transliteration": "ùn",
+              "english": "{v.} to heat up (food), {adj.} warm"
+            },
+            {
+              "transliteration": "dtəəm (ngən)",
+              "english": "to top up (credit, balance)"
+            },
+            {
+              "transliteration": "jàai (bpen...)",
+              "english": "to pay (with/by...)"
+            },
+            {
+              "transliteration": "kâa",
+              "english": "fee, charge, expense"
+            },
+            {
+              "transliteration": "sǐnkáa",
+              "english": "product, merchandise"
+            }
+          ]
+        },
+        {
           "id": "chapter29",
           "name": "📅 Chapter 29",
           "coreVocab": [
