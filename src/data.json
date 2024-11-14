@@ -606,6 +606,43 @@
               "transliteration": "kam wâa \"...\"",
               "english": "the word \"...\""
             }
+          ],
+          "vocabBuilder": [
+            {
+              "thai": "พูด ช้าๆ หน่อย",
+              "transliteration": "pûut cháa-cháa nɔ̀i",
+              "english": "speak slowly"
+            },
+            {
+              "thai": "พูด ดังๆ หน่อย",
+              "transliteration": "pûut dang-dang nɔ̀i",
+              "english": "speak loudly"
+            },
+            {
+              "thai": "คำ นี้ ออกเสียง ว่า ยังไง?",
+              "transliteration": "kam níi ɔ̀ɔksǐang wâa yangngai?",
+              "english": "how is this word pronounced?"
+            },
+            {
+              "thai": "ป้าย นี้ อ่าน ว่า อะไ่ร?",
+              "transliteration": "bpâai níi àan wâa arai?",
+              "english": "what does this sign say?"
+            },
+            {
+              "thai": "ใช้ (คำ ว่า...) ใน ประโยค ยังไง?",
+              "transliteration": "chái (kam wâa...) nai bprayòok yangngai?",
+              "english": "how do you use the word in a sentence?"
+            },
+            {
+              "thai": "อธิบาย (เกี่ยว กับ...) ให้ ฟัง หน่อย",
+              "transliteration": "àtíbaai (gìaogàp...) hâi fang nɔ̀i",
+              "english": "please explain about it"
+            },
+            {
+              "thai": "เขียน เป็น ภาษา ไทย ให้ ดู หน่อย",
+              "transliteration": "kǐan bpen paasǎa tai hâi duu nɔ̀i",
+              "english": "please write in Thai"
+            }
           ]
         },
         {
