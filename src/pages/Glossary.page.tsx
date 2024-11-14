@@ -81,6 +81,7 @@ export function GlossaryPage() {
 }
 
 function replaceSpecialChars(s: string) {
+  // TODO: Remove characters with diacritics
   const charMap: { [key: string]: string } = {
     à: 'a',
     á: 'a',
@@ -127,6 +128,8 @@ function replaceSpecialChars(s: string) {
   s = s.toLowerCase();
 
   return s
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
     .split('')
     .map((char) => charMap[char] || char)
     .join('');
