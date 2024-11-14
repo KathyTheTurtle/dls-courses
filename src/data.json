@@ -477,6 +477,72 @@
           ]
         },
         {
+          "id": "chapter27",
+          "name": "📞 Chapter 27",
+          "coreVocab": [
+            {
+              "transliteration": "wâa",
+              "english": "{conj.} (reporting speech and thought), that..."
+            },
+            {
+              "transliteration": "bɔ̀ɔk",
+              "english": "to tell, to inform"
+            },
+            {
+              "transliteration": "dâi yin",
+              "english": "{state v.} to hear (sth is audible)"
+            },
+            {
+              "transliteration": "too(rasàp)",
+              "english": "{v.} to phone, to call (sb) on the phone"
+            },
+            {
+              "transliteration": "sòng",
+              "english": "to send, deliver"
+            },
+            {
+              "transliteration": "jòtmǎai {chabàp}",
+              "english": "{n.} letter, mail"
+            },
+            {
+              "transliteration": "ráp",
+              "english": "{action v.} to receive (accepting sth), to pick up"
+            },
+            {
+              "transliteration": "dâi ráp",
+              "english": "{state v.} to receive (sth arrives)"
+            },
+            {
+              "transliteration": "mɔɔng",
+              "english": "{action v.} to look (gaining visual), to gaze at"
+            },
+            {
+              "transliteration": "(mɔɔng) hěn",
+              "english": "{state v.} to see (sth comes into view)"
+            },
+            {
+              "transliteration": "(àan, kít) 'ɔ̀ɔk",
+              "english": "{state v.} to be able to (read, think), to figure out"
+            },
+            {
+              "transliteration": "(too, sòng) hǎa",
+              "english": "{prep.} (communicating) towards (a person)"
+            },
+            {
+              "transliteration": "sǎai (toorasàp)",
+              "english": "(telephone) line"
+            },
+            {
+              "transliteration": "mʉ̂agíi",
+              "english": "{adv./coll.} just now, a moment ago"
+            },
+            {
+              "transliteration": "dǐaoníi",
+              "english": "{adv./coll.} right now, immediately"
+            }
+          ]
+        },
+        {
           "id": "chapter29",
           "name": "📅 Chapter 29",
           "coreVocab": [
