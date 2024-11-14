@@ -296,7 +296,7 @@
         },
         {
           "id": "chapter24",
-          "name": "🤒 Chapter 24",
+          "name": "🩺 Chapter 24",
           "coreVocab": [
             {
               "transliteration": "kəəi",
@@ -357,6 +357,72 @@
             {
               "transliteration": "lǎng (jàak)...",
               "english": "{prep.} after (time)"
+            }
+          ]
+        },
+        {
+          "id": "chapter26",
+          "name": "🤒 Chapter 26",
+          "coreVocab": [
+            {
+              "transliteration": "aagaan",
+              "english": "symptom"
+            },
+            {
+              "transliteration": "rúusʉ̀k",
+              "english": "to feel, to sense"
+            },
+            {
+              "transliteration": "bpùat",
+              "english": "{v.} (sth) aches (describes a dull, throbbing pain)"
+            },
+            {
+              "transliteration": "jèp",
+              "english": "{v.} (sth) hurts (describes a sharp, shooting pain)"
+            },
+            {
+              "transliteration": "taan",
+              "english": "{v./form.} to eat, to drink, to take (medicine)"
+            },
+            {
+              "transliteration": "aahǎan (cháao, glaang wan, yen) {mʉ́ʉ}",
+              "english": "{n./form.} meal (breakfast, lunch, dinner)"
+            },
+            {
+              "transliteration": "yaa {mét}",
+              "english": "medicine, drug {...tablet}"
+            },
+            {
+              "transliteration": "gɛ̂ɛ",
+              "english": "to cure, to relieve"
+            },
+            {
+              "transliteration": "kuan(-jà...)",
+              "english": "should"
+            },
+            {
+              "transliteration": "dtɔ̂ng",
+              "english": "must, have to"
+            },
+            {
+              "transliteration": "yàa",
+              "english": "{imperative} don't..."
+            },
+            {
+              "transliteration": "lə̂ək",
+              "english": "to quit, to discontinue, to break up (with sb)"
+            },
+            {
+              "transliteration": "pák(pɔ̀n)",
+              "english": "to rest, to take a break"
+            },
+            {
+              "transliteration": "...gɔ̀ɔn",
+              "english": "{adv.} ...first (before anything else), beforehand"
+            },
+            {
+              "transliteration": "...tiilǎng",
+              "english": "{adv.} ...later (not now), another time"
             }
           ]
         },
