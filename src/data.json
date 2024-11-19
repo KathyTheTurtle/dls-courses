@@ -930,6 +930,88 @@
           ]
         },
         {
+          "id": "chapter33",
+          "name": "😳 Chapter 33",
+          "coreVocab": [
+            {
+              "transliteration": "nâa...",
+              "english": "{prefix} (evoking an emotion) -able, -ing, etc."
+            },
+            {
+              "transliteration": "bʉ̀a",
+              "english": "{adj.} bored"
+            },
+            {
+              "transliteration": "nâa-bʉ̀a",
+              "english": "{adj.} boring"
+            },
+            {
+              "transliteration": "sǒnjai",
+              "english": "{adj.} interested"
+            },
+            {
+              "transliteration": "nâa-sǒnjai",
+              "english": "{adj.} interesting"
+            },
+            {
+              "transliteration": "pɔɔjai",
+              "english": "{adj.} satisfied, happy (with...)"
+            },
+            {
+              "transliteration": "nâa-pɔɔjai",
+              "english": "{adj.} satisfying"
+            },
+            {
+              "transliteration": "kíttʉ̌ng",
+              "english": "to miss (sb, sth)"
+            },
+            {
+              "transliteration": "ngûang",
+              "english": "{adj.} sleepy"
+            },
+            {
+              "transliteration": "pɛ́ɛ",
+              "english": "{state v.} to lose"
+            },
+            {
+              "transliteration": "chaná",
+              "english": "{state v.} to win"
+            },
+            {
+              "transliteration": "talɔ́ (gàp...)",
+              "english": "{action v.} to fight, argue (with...)"
+            },
+            {
+              "transliteration": "dtaai",
+              "english": "to die"
+            },
+            {
+              "transliteration": "(bpùai, tam ngaan) nàk",
+              "english": "{adj.} heavy, {adv.} severely (ill), (work) hard"
+            },
+            {
+              "transliteration": "duu (mʉ̌an...)",
+              "english": "{state v.} to seem, to look (like, as if)"
+            },
+            {
+              "transliteration": "weelaa...",
+              "english": "{prep.} when... (sth happens), when(ever)..."
+            },
+            {
+              "transliteration": "ìik...",
+              "english": "{det.}(qnf.) another (one), the other..., ...more"
+            },
+            {
+              "transliteration": "táng...",
+              "english": "{det.}(qnf.) all of..., the whole..., entire..."
+            },
+            {
+              "transliteration": "roong nǎng {roong}",
+              "english": "cinema, movie theatre"
+            }
+          ]
+        },
+        {
           "id": "chapter34",
           "name": "Chapter 34",
           "coreVocab": [
