@@ -762,6 +762,96 @@
           ]
         },
         {
+          "id": "chapter31",
+          "name": "🔢 Chapter 31",
+          "coreVocab": [
+            {
+              "transliteration": "gradàat {pɛ̀ɛn}",
+              "english": "paper"
+            },
+            {
+              "transliteration": "èekgasǎan {pɛ̀ɛn}",
+              "english": "document"
+            },
+            {
+              "transliteration": "glɔ̀ng {bai}",
+              "english": "box"
+            },
+            {
+              "transliteration": "bàt {bai}",
+              "english": "card"
+            },
+            {
+              "transliteration": "nángsʉ̌ʉ {lêm}",
+              "english": "book"
+            },
+            {
+              "transliteration": "mîit {lêm}",
+              "english": "knife"
+            },
+            {
+              "transliteration": "kěmkàt {sên}",
+              "english": "belt"
+            },
+            {
+              "transliteration": "tanǒn {sên}",
+              "english": "road, street"
+            },
+            {
+              "transliteration": "dɔ̀ɔkmáai {dɔ̀ɔk}",
+              "english": "flower"
+            },
+            {
+              "transliteration": "gunjɛɛ {dɔ̀ɔk}",
+              "english": "key"
+            },
+            {
+              "transliteration": "tîi",
+              "english": "{clf.} (generic classifier for locations) ...places"
+            },
+            {
+              "transliteration": "yàang",
+              "english": "{clf.} ...kinds, ...things, {adv.} like..."
+            },
+            {
+              "transliteration": "túk...",
+              "english": "{quantifier} every..., all of..."
+            },
+            {
+              "transliteration": "baang...",
+              "english": "{quantifier} some"
+            },
+            {
+              "transliteration": "lǎai...",
+              "english": "{quantifier} many..., several..."
+            },
+            {
+              "transliteration": "mâi gìi...",
+              "english": "{quantifier} a few..., not many..."
+            },
+            {
+              "transliteration": "dtɛ̀ɛlá...",
+              "english": "{quantifier} each... (individually)"
+            },
+            {
+              "transliteration": "...tîi (nʉ̀ng, sɔ̌ɔng, sǎam, sìi)",
+              "english": "(ordinal numbers) 1st, 2nd, 3rd, 4th"
+            },
+            {
+              "transliteration": "...rɛ̂ɛk",
+              "english": "the first..."
+            },
+            {
+              "transliteration": "...sùttáai",
+              "english": "the last..."
+            },
+            {
+              "transliteration": "kàat (rian, ngaan)",
+              "english": "{action v.} to miss (school, work)"
+            }
+          ]
+        },
+        {
           "id": "chapter34",
           "name": "Chapter 34",
           "coreVocab": [
