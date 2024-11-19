@@ -852,6 +852,84 @@
           ]
         },
         {
+          "id": "chapter32",
+          "name": "🔂 Chapter 32",
+          "coreVocab": [
+            {
+              "transliteration": "...bɔ̀i kɛ̂ɛnǎi",
+              "english": "how often"
+            },
+            {
+              "transliteration": "...dtalɔ̀ɔt",
+              "english": "{frequency} all the time"
+            },
+            {
+              "transliteration": "...bɔ̀i-bɔ̀i",
+              "english": "{frequency} often, frequently"
+            },
+            {
+              "transliteration": "...(bpen) bprajam",
+              "english": "{frequency} regularly"
+            },
+            {
+              "transliteration": "baang tii...",
+              "english": "{frequency} sometimes"
+            },
+            {
+              "transliteration": "naan-naan tii...",
+              "english": "{frequency} once in a while"
+            },
+            {
+              "transliteration": "mâi kɔ̂i (dâi)...",
+              "english": "{frequency} rarely, not often"
+            },
+            {
+              "transliteration": "mâi... ləəi",
+              "english": "{frequency} not... at all"
+            },
+            {
+              "transliteration": "gɔ̂ɔləəi...",
+              "english": "{conj.} (because of sth) so..., therefore..."
+            },
+            {
+              "transliteration": "sɔ̀ɔp (wíchaa...)",
+              "english": "{n.} test/exam, {v.} to take a test (on ...subject)"
+            },
+            {
+              "transliteration": "(sɔ̀ɔp) pàan",
+              "english": "to pass (a test/exam)"
+            },
+            {
+              "transliteration": "(sɔ̀ɔp) dtòk",
+              "english": "to fail (a test/exam)"
+            },
+            {
+              "transliteration": "(dâai) kanɛɛn",
+              "english": "(to get) score, point"
+            },
+            {
+              "transliteration": "nɔ́ɔi",
+              "english": "{adj.} few, little (quantity), small (degree)"
+            },
+            {
+              "transliteration": "yàang-mâak (gɔ̂ɔ...)",
+              "english": "maximum, at most..."
+            },
+            {
+              "transliteration": "yàang-nɔ́ɔi (gɔ̂ɔ...)",
+              "english": "minimum, at least..."
+            },
+            {
+              "transliteration": "ráp",
+              "english": "to pick (sb) up"
+            },
+            {
+              "transliteration": "sòng",
+              "english": "to drop/send (sb) off"
+            }
+          ]
+        },
+        {
           "id": "chapter34",
           "name": "Chapter 34",
           "coreVocab": [
