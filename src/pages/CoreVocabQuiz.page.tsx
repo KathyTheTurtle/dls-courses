@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
-import { Button, Group, Radio, Stack, Text, Title } from '@mantine/core';
+import { Button, Group, Progress, Radio, Stack, Text, Title } from '@mantine/core';
 import { CoreVocab, TranslationDirection } from '@/types';
 import data from '../data.json';
 
@@ -51,6 +51,7 @@ export function CoreVocabQuizPage() {
 
   return vocabIndex < coreVocab.length ? (
     <Stack align="center">
+      <Progress value={(vocabIndex / coreVocab.length) * 100} style={{ width: '100%' }} mb={10} />
       <Title>
         {translationDirection === TranslationDirection.ThaiToEnglish
           ? currentVocab.transliteration
