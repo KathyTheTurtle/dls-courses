@@ -1434,6 +1434,110 @@
           ]
         },
         {
+          "id": "chapter38",
+          "name": "⏳ Chapter 38",
+          "coreVocab": [
+            {
+              "transliteration": "\"kəəi dâi...\"",
+              "english": "\"...have (ever) had an opportunity to (do sth)\""
+            },
+            {
+              "transliteration": "\"dâi... lɛ́ɛo\"",
+              "english": "\"...already had a chance to (do sth)\""
+            },
+            {
+              "transliteration": "\"mâi dâi... lɛ́ɛo\"",
+              "english": "\"(in contrary,) ...no longer (do sth) anymore\""
+            },
+            {
+              "transliteration": "\"gamlang... lɛ́ɛo\"",
+              "english": "\"...already (doing sth)\""
+            },
+            {
+              "transliteration": "\"gamlang jà...\"",
+              "english": "\"(to be) ...about to (do sth)\""
+            },
+            {
+              "transliteration": "\"jà... lɛ́ɛo\"",
+              "english": "\"soon ...will (do sth) any moment now\""
+            },
+            {
+              "transliteration": "\"yang mâi kəəi...\"",
+              "english": "\"...still have never (done sth) yet\""
+            },
+            {
+              "transliteration": "\"jà yang mâi\"",
+              "english": "\"(intentionally,) ...will not (do sth) yet\""
+            },
+            {
+              "transliteration": "...sák pák",
+              "english": "for a while, momentarily"
+            },
+            {
+              "transliteration": "kóp (gan)",
+              "english": "to become friends/romantic partners with sb"
+            },
+            {
+              "transliteration": "sanìt",
+              "english": "{adj.} (relationship) close with (sb), intimate"
+            },
+            {
+              "transliteration": "rɔ́ɔnghâai",
+              "english": "to cry"
+            },
+            {
+              "transliteration": "hǔarɔ́",
+              "english": "to laugh"
+            },
+            {
+              "transliteration": "yím",
+              "english": "to smile"
+            },
+            {
+              "transliteration": "laa 'ɔ̀ɔk",
+              "english": "to quit (a job, school, etc.)"
+            }
+          ],
+          "vocabBuilder": [
+            {
+              "transliteration": "sák wan",
+              "english": "someday"
+            },
+            {
+              "transliteration": "tii lǎng",
+              "english": "later"
+            },
+            {
+              "transliteration": "reo-reo níi",
+              "english": "soon"
+            },
+            {
+              "transliteration": "dǐaoníi",
+              "english": "right now"
+            },
+            {
+              "transliteration": "dtɔɔnníi",
+              "english": "now"
+            },
+            {
+              "transliteration": "mʉ̂agíi",
+              "english": "just now"
+            },
+            {
+              "transliteration": "mâi naan maa níi",
+              "english": "not long ago"
+            },
+            {
+              "transliteration": "mʉ̂agɔɔn",
+              "english": "before, previously"
+            },
+            {
+              "transliteration": "naan maa lɛ́ɛo",
+              "english": "long time ago"
+            }
+          ]
+        },
+        {
           "id": "chapter39",
           "name": "⚖️ Chapter 39",
           "coreVocab": [
