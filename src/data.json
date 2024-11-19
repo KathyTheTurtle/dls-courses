@@ -1368,6 +1368,72 @@
           ]
         },
         {
+          "id": "chapter37",
+          "name": "⏩ Chapter 37",
+          "coreVocab": [
+            {
+              "transliteration": "gamlang... (yùu)",
+              "english": "{tense marker} (ongoing), (to be) ...ing"
+            },
+            {
+              "transliteration": "yang... (yùu)",
+              "english": "{tense marker} (incomplete), still (doing sth)"
+            },
+            {
+              "transliteration": "jà...",
+              "english": "{tense marker} (future/intention), will, would"
+            },
+            {
+              "transliteration": "dâi...",
+              "english": "{tense marker} (achievement), get to (do sth), have"
+            },
+            {
+              "transliteration": "dtângjai",
+              "english": "{action v.} to intend (to...), to focus on... (doing sth)"
+            },
+            {
+              "transliteration": "oogàat",
+              "english": "chance, opportunity"
+            },
+            {
+              "transliteration": "dǐao...",
+              "english": "soon... (sth will happen)"
+            },
+            {
+              "transliteration": "dtɔɔn rɛ̂ɛk...",
+              "english": "at first..."
+            },
+            {
+              "transliteration": "sùttáai (gɔ̂ɔ)...",
+              "english": "in the end..., eventually..."
+            },
+            {
+              "transliteration": "tii lǎng...",
+              "english": "next time..."
+            },
+            {
+              "transliteration": "sùan-dtua",
+              "english": "personal, private"
+            },
+            {
+              "transliteration": "yàa-pə̂ng...",
+              "english": "don't... just yet"
+            },
+            {
+              "transliteration": "dtriam",
+              "english": "to prepare"
+            },
+            {
+              "transliteration": "króp",
+              "english": "{state v.} to complete (a number/period), all is present"
+            },
+            {
+              "transliteration": "bprasòpgaan",
+              "english": "{n.} experience"
+            }
+          ]
+        },
+        {
           "id": "chapter39",
           "name": "⚖️ Chapter 39",
           "coreVocab": [
